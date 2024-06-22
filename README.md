@@ -1,0 +1,1 @@
+# Solution_for_easy_array_dsa_problems_code_ninjas
